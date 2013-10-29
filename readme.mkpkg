@@ -1,0 +1,7 @@
+# edit files...
+makepkg -f --holdver --skipinteg --nobuild
+updpkgsums
+namcap -i PKGBUILD
+makepkg -f --holdver
+namcap -i hudson-*-any.pkg.tar.xz
+
