@@ -3,7 +3,7 @@
 # Contributor: Yahya Mohajer < yaya_2013 At yahoo Dot com >
 
 pkgname=hudson
-pkgver=3.1.0
+pkgver=3.1.2
 pkgrel=1
 epoch=
 pkgdesc="Extensible continuous integration server"
